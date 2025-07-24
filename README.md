@@ -14,7 +14,12 @@
 Watch the demo video showcasing how the model performs with Bengali-English code-switching in healthcare dialogues. The video demonstrates its ability to generate realistic TTS output in real-world scenarios.
 
 * Watch the **Demo Video** here:
-  [🔗 Demo Video](#)
+  
+
+https://github.com/user-attachments/assets/94f39f5b-30c9-49bd-b195-69e1dced890c
+
+
+  
 
 ## **🚀 Model Overview**
 
