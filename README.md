@@ -7,11 +7,11 @@
 
 
 
-**Medibeng-Orpheus-3b-0.1-ft** is a fine-tuned Text-to-Speech (TTS) model trained on the **MediBeng** dataset, designed to handle bilingual Bengali-English **code-switching** in healthcare settings. This model builds on the **Orpheus TTS** architecture and leverages the **LLaMA-3b** backbone. Special thanks to **Unsloth** for their contribution in accelerating the training process using **HuggingFace's TRL** library.
+**Medibeng-Orpheus-3b-0.1-ft** is a fine-tuned Text-to-Speech (TTS) model trained on the **MediBeng** dataset, designed to handle bilingual Bengali-English **code-switching** in healthcare settings. This model builds on the **Orpheus TTS** architecture and leverages the **LLaMA-3b** backbone. Special thanks to [**Unsloth**](https://unsloth.ai/) for their contribution in accelerating the training process using **HuggingFace's TRL** library.
 
 ### **Demo Video**
 
-Watch the demo video showcasing how the model performs with Bengali-English code-switching in healthcare dialogues. The video demonstrates its ability to generate realistic TTS output in real-world scenarios.
+Watch the demo video showcasing how the model performs with Bengali-English code-switching in healthcare speeches. The video demonstrates its ability to generate realistic TTS output in real-world scenarios.
 
 * Watch the **Demo Video** here:
   
