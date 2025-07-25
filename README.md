@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
 ![Model Size](https://img.shields.io/badge/size-3B-ff69b4)
 ![Base Model](https://img.shields.io/badge/Base_Model-Llama--3.2--3B--Instruct-blue)
-[![Model on HuggingFace](https://img.shields.io/badge/HuggingFace-medibeng--orpheus--3b--0.1--ft-blue?logo=huggingface&logoColor=white)](https://huggingface.co/The-Data-Dilemma/Medibeng-Orpheus-3b-0.1-ft)
+[![Model on HuggingFace](https://img.shields.io/badge/HuggingFace-medibeng--orpheus--3b--0.1--ft-orange?logo=huggingface&logoColor=yellow)](https://huggingface.co/The-Data-Dilemma/Medibeng-Orpheus-3b-0.1-ft)
 
 
 
@@ -50,9 +50,10 @@ Here’s a quick overview of the fine-tuning process that was followed to train 
 To easily interact with the fine-tuned model, use the provided **Colab Notebook**. The notebook includes all necessary steps to run the model, generate speech, and experiment with different inputs.
 
 * Access the **Colab Notebook Interface** here:
-  - [🔗 Fine-Tuning Colab Notebook by Unsloth](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Orpheus_(3B)-TTS.ipynb)
-  - [⚡ Quick Access **Medibeng-Orpheus-3b-0.1-ft**](https://colab.research.google.com/drive/1J5i_pTV4BmDxXlmyK1ZwESrqiIpy4oJo?usp=sharing)
-  - [🤗 Model on HuggingFace](https://huggingface.co/The-Data-Dilemma/Medibeng-Orpheus-3b-0.1-ft)
+* 
+  - 🔗 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) Fine-Tuning Colab Notebook by Unsloth](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Orpheus_(3B)-TTS.ipynb)
+  - ⚡ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) Quick Access Medibeng-Orpheus-3b-0.1-ft ](https://colab.research.google.com/drive/1J5i_pTV4BmDxXlmyK1ZwESrqiIpy4oJo?usp=sharing)
+  - 🤗 [Model on HuggingFace](https://huggingface.co/The-Data-Dilemma/Medibeng-Orpheus-3b-0.1-ft)
 
 
 ## **📋 Limitations**
