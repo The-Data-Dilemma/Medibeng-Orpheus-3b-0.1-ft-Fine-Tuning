@@ -55,6 +55,17 @@ To easily interact with the fine-tuned model, use the provided **Colab Notebook*
   - ⚡ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) Quick Access Medibeng-Orpheus-3b-0.1-ft ](https://colab.research.google.com/drive/1J5i_pTV4BmDxXlmyK1ZwESrqiIpy4oJo?usp=sharing)
   - 🤗 [Model on HuggingFace](https://huggingface.co/The-Data-Dilemma/Medibeng-Orpheus-3b-0.1-ft)
 
+### Running Inference Outside of Colab
+
+* **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+* **Run the Script**
+   ```bash
+   python inference.py
+   ```
 
 ## **📋 Limitations**
 
